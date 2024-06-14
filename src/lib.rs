@@ -17,6 +17,8 @@ pub use one_of::OneOf;
 
 pub use type_set::{E1, E2, E3, E4, E5, E6, E7, E8, E9};
 
+pub use type_set::{TypeSet, SupersetOf};
+
 /* ------------------------- Helpers ----------------------- */
 
 /// The final element of a type-level Cons list.
